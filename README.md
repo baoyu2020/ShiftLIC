@@ -7,7 +7,15 @@ This repository contains the Pytorch implementation of the paper "ShiftLIC: High
 - [ ] Offer supplementary materials
 
 ## Architectures
-![Architecture Diagram](assets/architecture.png)
+### **Figure 1: Overview of the ShiftLIC Architecture**  
+![Architecture Diagram](assets/Architecture.png)
+
+## Results
+### **Figure 2: Comprehensive Performance Comparison**
+![Performance Comparison](assets/Comprehensive_performance.png)
+
+### **Figure 3: Rate-Distortion-Complexity-Latency Trade-off**
+![Rate-Distortion-Complexity-Latency Trade-off](assets/R-D-C-T.png)
 
 ## Dependencies
 To run this code, you will need the following dependencies:
