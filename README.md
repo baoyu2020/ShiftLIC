@@ -35,23 +35,26 @@ To train the models, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/baoyu2020/ShiftLIC.git
-    cd ShiftLIC/shiftlic
+    cd ShiftLIC/shiftlic/large/
     ``` 
 
 2. Prepare your dataset and adjust the configuration in `config.py`.
 3. Run the training script:
     ```bash
-    python main_train.py -q 1 --out_dir ./Log/out_dir/ --nt GDN --model M1 --SIC 50 --batch_size 16 --metric mse --lr 1e-4 --epochs 100 --dataset Train_dataset_dir 
+    python train.py -q 1 --out_dir ./Log/out_dir/ --batch_size 16 --metric mse --lr 1e-4 --epochs 100 --dataset Train_dataset_dir 
     ```
 
 ## Testing
 To test the models, follow these steps:
 1. Run the testing script:
     ```bash
-    python 
+    python test.py --model_path ./Log/out_dir/model_best.pth --dataset Test_dataset_dir
     ```
 
 2. The results will be saved in the `./Log/out_dir/` directory.
+
+## Acknowledgements
+This repository is based on [CompressAI](https://github.com/InterDigitalInc/CompressAI/) and [TinylLIC](https://github.com/lumingzzz/TinyLIC).
 
 ## Contact
 For any inquiries or issues, please contact us at [ynbao@stu.hit.cn](mailto:ynbao@stu.hit.cn).
