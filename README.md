@@ -58,6 +58,29 @@ To test the models, follow these steps:
 ## Acknowledgements
 This repository is based on [CompressAI](https://github.com/InterDigitalInc/CompressAI/) and [TinylLIC](https://github.com/lumingzzz/TinyLIC).
 
+
+If you find this work useful for your research, please cite:
+
+```
+
+@article{10947057,
+  author={Bao, Youneng and Tan, Wen and Jia, Chuanmin and Li, Mu and Liang, Yongsheng and Tian, Yonghong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={ShiftLIC: Lightweight Learned Image Compression with Spatial-Channel Shift Operations}, 
+  year={2025},
+  doi={10.1109/TCSVT.2025.3556708}}
+
+```
+
+```
+@article{lu2022high,
+  title={High-Efficiency Lossy Image Coding Through Adaptive Neighborhood Information Aggregation},
+  author={Lu, Ming and Ma, Zhan},
+  journal={arXiv preprint arXiv:2204.11448},
+  year={2022}
+}
+```
+
 ## Contact
 For any inquiries or issues, please contact us at [ynbao@stu.hit.cn](mailto:ynbao@stu.hit.cn).
 
