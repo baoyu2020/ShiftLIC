@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-20 21:14:25",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/jpeg-ai/shiftlic/large/q8",
+  "metric_name": "liqe",
+  "scores": [
+    {
+      "avg_score": 4.504000574350357
+    }
+  ]
+}

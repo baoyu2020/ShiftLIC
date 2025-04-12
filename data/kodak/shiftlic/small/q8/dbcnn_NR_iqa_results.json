@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-22 21:54:21",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/kodak/shiftlic/small/q8",
+  "metric_name": "dbcnn",
+  "scores": [
+    {
+      "avg_score": 0.7031204104423523
+    }
+  ]
+}

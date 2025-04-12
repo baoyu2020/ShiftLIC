@@ -1,0 +1,9 @@
+{
+    "image_name": "benjamin-sloth-lindgreen-705.png",
+    "mse": 0.0003374212246853858,
+    "psnr": 34.702392578125,
+    "ms-ssim": 0.9951213598251343,
+    "bpp": 1.0351648351648353,
+    "encoding_time": 0.4624819755554199,
+    "decoding_time": 0.4749624729156494
+}

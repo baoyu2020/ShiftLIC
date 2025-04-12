@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-22 21:55:10",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/kodak/shiftlic/large/q2",
+  "metric_name": "lpips",
+  "scores": [
+    {
+      "avg_score": 0.2237196878219644
+    }
+  ]
+}

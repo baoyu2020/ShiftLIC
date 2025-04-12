@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-21 01:04:48",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/Tecnick_new/shiftlic/small/ms-q8",
+  "metric_name": "lpips",
+  "scores": [
+    {
+      "avg_score": 0.039781630504876375
+    }
+  ]
+}

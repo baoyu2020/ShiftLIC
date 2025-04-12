@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-20 21:13:05",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/jpeg-ai/shiftlic/small/ms-q3",
+  "metric_name": "liqe",
+  "scores": [
+    {
+      "avg_score": 3.89937624335289
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-21 01:19:51",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/valid2020pro/shiftlic/small/q3",
+  "metric_name": "lpips",
+  "scores": [
+    {
+      "avg_score": 0.22244162539519916
+    }
+  ]
+}

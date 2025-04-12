@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-21 01:07:55",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/Tecnick_new/shiftlic/middle/q7",
+  "metric_name": "lpips",
+  "scores": [
+    {
+      "avg_score": 0.06912269873544574
+    }
+  ]
+}

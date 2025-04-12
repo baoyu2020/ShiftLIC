@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-20 22:18:59",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/valid2020pro/shiftlic/middle/ms-q3",
+  "metric_name": "dbcnn",
+  "scores": [
+    {
+      "avg_score": 0.43390418988902396
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-20 21:13:27",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/jpeg-ai/shiftlic/small/q8",
+  "metric_name": "dbcnn",
+  "scores": [
+    {
+      "avg_score": 0.6478125900030136
+    }
+  ]
+}

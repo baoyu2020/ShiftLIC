@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-20 22:17:23",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/valid2020pro/shiftlic/large/q6",
+  "metric_name": "liqe",
+  "scores": [
+    {
+      "avg_score": 3.372451860730241
+    }
+  ]
+}

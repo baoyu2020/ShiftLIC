@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-21 00:33:00",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/jpeg-ai/shiftlic/small/ms-q2",
+  "metric_name": "lpips",
+  "scores": [
+    {
+      "avg_score": 0.2242140844464302
+    }
+  ]
+}

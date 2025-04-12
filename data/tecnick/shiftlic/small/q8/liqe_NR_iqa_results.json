@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-20 21:53:12",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/Tecnick_new/shiftlic/small/q8",
+  "metric_name": "liqe",
+  "scores": [
+    {
+      "avg_score": 3.6600338304042817
+    }
+  ]
+}

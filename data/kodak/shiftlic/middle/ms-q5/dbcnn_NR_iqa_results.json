@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-22 21:56:48",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/kodak/shiftlic/middle/ms-q5",
+  "metric_name": "dbcnn",
+  "scores": [
+    {
+      "avg_score": 0.5497439975539843
+    }
+  ]
+}

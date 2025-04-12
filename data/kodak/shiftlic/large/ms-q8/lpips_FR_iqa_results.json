@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-22 21:54:32",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/kodak/shiftlic/large/ms-q8",
+  "metric_name": "lpips",
+  "scores": [
+    {
+      "avg_score": 0.049933353594193854
+    }
+  ]
+}

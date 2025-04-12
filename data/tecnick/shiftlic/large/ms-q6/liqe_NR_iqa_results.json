@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-20 21:55:17",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/Tecnick_new/shiftlic/large/ms-q6",
+  "metric_name": "liqe",
+  "scores": [
+    {
+      "avg_score": 3.4451012921333315
+    }
+  ]
+}

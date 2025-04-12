@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-22 21:56:39",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/kodak/shiftlic/middle/q1",
+  "metric_name": "liqe",
+  "scores": [
+    {
+      "avg_score": 3.8734163641929626
+    }
+  ]
+}

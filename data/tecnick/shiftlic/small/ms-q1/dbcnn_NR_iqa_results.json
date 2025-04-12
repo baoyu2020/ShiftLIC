@@ -1,0 +1,10 @@
+{
+  "test_time": "2024-11-20 21:52:37",
+  "target_dir": "/data1/home/ynbao/Testcodec/bench/Tecnick_new/shiftlic/small/ms-q1",
+  "metric_name": "dbcnn",
+  "scores": [
+    {
+      "avg_score": 0.41211897939443587
+    }
+  ]
+}
