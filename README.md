@@ -2,7 +2,6 @@
 
 This repository contains the Pytorch implementation of the paper ["ShiftLIC: High-Efficiency Learned Image Compression with Spatial-Channel Shift Operations"](https://arxiv.org/abs/2503.23052) in IEEE Transactions on Circuits and Systems for Video Technology. 
 
-// ... existing code ...
 
 ## TODO
 - [ ] Provide pretrained models
